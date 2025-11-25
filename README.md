@@ -10,5 +10,6 @@ Demonstration of Snake game, it is not fully perfect as it was just an early pro
 Simple Tic Tac Toe game also made in 2020.
 User plays against a bot which's logic I made manually.
 Here is the demonstration of Tic Tac Toe game:
+
 <img src="https://github.com/user-attachments/assets/e4988cc4-05ab-421a-98d4-f81c11607404" alt="Snake Game Demo" width="732" height="480"/>
 
