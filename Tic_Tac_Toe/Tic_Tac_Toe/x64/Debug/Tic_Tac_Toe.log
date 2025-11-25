@@ -1,0 +1,29 @@
+﻿  win32.cpp
+C:\Users\User\Source\Repos\Tic_Tac_Toe\rendering.cpp(899,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'win32.cpp')
+  
+C:\Users\User\Source\Repos\Tic_Tac_Toe\rendering.cpp(945,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32.cpp')
+  
+C:\Users\User\Source\Repos\Tic_Tac_Toe\rendering.cpp(945,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32.cpp')
+  
+C:\Users\User\Source\Repos\Tic_Tac_Toe\rendering.cpp(945,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32.cpp')
+  
+C:\Users\User\Source\Repos\Tic_Tac_Toe\rendering.cpp(980,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32.cpp')
+  
+C:\Users\User\Source\Repos\Tic_Tac_Toe\rendering.cpp(981,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'win32.cpp')
+  
+C:\Users\User\Source\Repos\Tic_Tac_Toe\game.cpp(94,15): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'win32.cpp')
+  
+C:\Users\User\Source\Repos\Tic_Tac_Toe\game.cpp(95,15): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  (compiling source file 'win32.cpp')
+  
+C:\Users\User\Source\Repos\Tic_Tac_Toe\game.cpp(497,42): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  (compiling source file 'win32.cpp')
+  
+  Tic_Tac_Toe.vcxproj -> C:\Users\User\Source\Repos\Tic_Tac_Toe\x64\Debug\Tic_Tac_Toe.exe
