@@ -1,0 +1,3 @@
+C:\Users\ACER\source\repos\Snake\Debug\Snake.exe
+C:\Users\ACER\source\repos\Snake\Debug\Snake.pdb
+C:\Users\User\Source\Repos\Snake\Debug\Snake.exe
